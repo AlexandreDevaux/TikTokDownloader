@@ -9,11 +9,11 @@ parser.add_argument('-u','--user',
 parser.add_argument('-v','--videoUrl',
                     help='url of the video to download', default=None)
 parser.add_argument('-o','--output',
-                    help='name convention of the ouput, for example : `-o video` will name the videos `video_1.mp4, video_2.mp4, ...',
+                    help='name convention of the ouput, for example : `-o video` will name the videos `video_1.mp4, video_2.mp4, ..., default is \'video\'',
                     default='video')
 parser.add_argument('--destination', '-d',
                     default='.',
-                    help='destination folder to download videos to')
+                    help='destination folder, default is \'.\' (current folder)')
 
 args = parser.parse_args()
 
