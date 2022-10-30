@@ -4,7 +4,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -136,8 +135,6 @@ Project Link: [https://github.com/AlexandreDevaux/TikTokDownloader](https://gith
 [stars-url]: https://github.com/AlexandreDevaux/TikTokDownloader/stargazers
 [issues-shield]: https://img.shields.io/github/issues/AlexandreDevaux/TikTokDownloader.svg?style=for-the-badge
 [issues-url]: https://github.com/AlexandreDevaux/TikTokDownloader/issues
-[license-shield]: https://img.shields.io/github/license/AlexandreDevaux/TikTokDownloader.svg?style=for-the-badge
-[license-url]: https://github.com/AlexandreDevaux/TikTokDownloader/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/alexandre-devaux-engineer/
 [Python.org]: https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
