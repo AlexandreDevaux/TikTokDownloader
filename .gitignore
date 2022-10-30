@@ -1,0 +1,5 @@
+cookie.json
+venv/**/*
+network_log.json
+urls.txt
+.idea/**/*

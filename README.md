@@ -1,0 +1,1 @@
+copier les cookies avec edit this cookie et supprimer les lignes avec "SameSite"
