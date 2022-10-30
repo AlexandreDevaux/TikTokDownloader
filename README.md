@@ -5,6 +5,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![TikTok][tiktok-shield]][tiktok-url]
 
 
 <!-- PROJECT LOGO -->
@@ -141,3 +142,5 @@ Project Link: [https://github.com/AlexandreDevaux/TikTokDownloader](https://gith
 [Python-url]: https://www.python.org/
 [Selenium.dev]: https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white
 [Selenium-url]: https://www.selenium.dev/
+[tiktok-shield]: https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white
+[tiktok-url]: https://www.tiktok.com/@alexandredevauxtiktok
